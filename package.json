@@ -1,0 +1,22 @@
+{
+  "name": "ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "modulo1": "ts-node modulos/modulo1",
+    "modulo2": "ts-node modulos/modulo2",
+    "modulo3": "ts-node modulos/modulo3",
+    "modulo4": "ts-node modulos/modulo4",
+    "deber":"ts-node modulos/deber"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.3"
+  }
+}
